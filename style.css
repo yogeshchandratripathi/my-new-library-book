@@ -1,0 +1,64 @@
+*{
+    padding: 8px;
+    margin: 0px;
+}
+#my-1{
+    background-color: black;
+    overflow: hidden;
+}
+#my-1 a{
+  float: right;
+  display: block;
+  padding: 10px 14px;
+  position: sticky;
+  color: white;
+}
+#my-1 a:hover{
+    color: blue;
+}
+.my-2{
+    
+    text-align: center;
+    padding: 15px;
+}
+.table-1{
+    text-align: center;
+    margin: auto
+   
+}
+#my-3{
+   text-align: center
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  #my-5 {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 7px;
+    max-width: 500px;
+  }
+  .my-6{
+    margin: auto;
+    border: 1px solid black;
+  }
+  .my-6 label {
+    display: block;
+  }
+  .my-6 input {
+    width: 90%;
+     
+  }
+  .my-6 button {
+    background-color: #333;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  .my-6 label:hover{
+    color: blue;
+
+  }
